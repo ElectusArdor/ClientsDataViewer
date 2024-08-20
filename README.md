@@ -1,1 +1,2 @@
-# Ex10
+# ClientsDataViewer
+Очередной учебный проект.
